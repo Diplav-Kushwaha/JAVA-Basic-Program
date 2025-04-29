@@ -1,2 +1,13 @@
 # JAVA Program
-This repository contains a Java programs designed to help beginners understand the core concepts of Java programming. Each program focuses on a specific topic such as variables, data types, control statements, loops, arrays, functions, object-oriented programming, and more. 
+This repository contains OOPs programs in JAVA designed to understand the OOPs concepts in detail of Java programming. Each program design as a BEGINNER FRIENDLY PROJECT and more.
+Including:
+
+Methods and Functions
+Classes and Objects
+Inheritance
+Polymorphism
+Encapsulation
+Abstraction
+Interfaces and Abstract Classes
+Constructor Overloading & Method Overloading
+Real-world examples and use cases
